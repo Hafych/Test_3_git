@@ -4,5 +4,6 @@ def main():
     list_2 = [i for i in list_1 if i % 2 == 0]
     print(f"Парні числа: {list_2}")
 
+
 if __name__ == "__main__":
     main()
